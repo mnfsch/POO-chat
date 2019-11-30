@@ -149,7 +149,7 @@ public class MessagingFrame extends javax.swing.JFrame {
     }//GEN-LAST:event_but_sendActionPerformed
 
     private void but_fileActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_but_fileActionPerformed
-        // TODO add your handling code here:
+ 
         JFileChooser chooser = new JFileChooser();
         chooser.setCurrentDirectory(new java.io.File("."));
         chooser.setDialogTitle("choosertitle");
